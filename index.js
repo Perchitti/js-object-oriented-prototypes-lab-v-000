@@ -10,9 +10,9 @@
   BoardMember.prototype.approve = function(){
     return 'You can do that!'
   }
-//   this.approve = function(){
-//     return 'You can do that!'
-//   }
+   BoardMember.prototype.approve = function(){
+     return 'You can do that!'
+   }
 //   this.doCharity = function(){
 //     return "I like to help people."
 //   }
